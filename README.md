@@ -1,3 +1,6 @@
+# Welcome aboard!
+## this isnt my main account but i use this for special projects like the FormicAcid FSM
+
 - 👋 Hi, I’m @awdev1
 - 👀 I’m interested in aviation ✈
 - 🌱 I’m currently learning on how to fly a plane
