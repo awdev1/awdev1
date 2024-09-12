@@ -7,3 +7,4 @@
 - 💞️ I’m looking to collaborate on reviving old projects by FormicAcid
 - 📫 How to reach me: awdev_ on discord
 
+![Metrics](/github-metrics.svg)
