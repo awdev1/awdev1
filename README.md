@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm awdev1</h1>
-<h3 align="center">15-year-old student pilot and programmer</h3>
+<h1 align="center">Hi, I'm Aaron</h1>
+<h3 align="center">15-year-old IT consultant and programmer</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=awdev1&label=Profile%20views&color=0e75b6&style=flat" alt="awdev1" /> 
