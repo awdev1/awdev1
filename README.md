@@ -44,9 +44,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awdev1&theme=default&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <img src="https://stats.awdevsoftware.org/api?username=awdev1&theme=default&hide_border=false&include_all_commits=false&count_private=false"><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=awdev1&theme=default&hide_border=false"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awdev1&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src="https://stats.awdevsoftware.org/api/top-langs/?username=awdev1&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   <img src="https://github-profile-trophy.vercel.app/?username=awdev1&theme=radical&no-frame=false&no-bg=true&margin-w=4">
 </div>
 
