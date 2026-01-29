@@ -45,9 +45,7 @@
 </p>
 
 <div align="center">
-  <img src="https://stats.awdevsoftware.org/api?username=awdev1&theme=default&hide_border=false&include_all_commits=false&count_private=false"><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=awdev1&theme=default&hide_border=false"><br/>
-  <img src="https://stats.awdevsoftware.org/api/top-langs/?username=awdev1&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=awdev1&theme=radical&no-frame=false&no-bg=true&margin-w=4">
+  <img src="https://stats.awdevsoftware.org/api?username=awdev1&theme=dark&hide_border=false&include_all_commits=false&count_private=false"><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=awdev1&theme=dark&hide_border=false"><br/>
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=21577&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Coding+Stats&layout=compact&cache_seconds=0&langs_count=8">
 </div>
-
